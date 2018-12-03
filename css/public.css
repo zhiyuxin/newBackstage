@@ -173,7 +173,7 @@ body {
     background-color: #f60!important;
     color: #fff!important;
 }
-@media screen and (min-width:1200px) and (max-width:1623px){
+@media screen and (min-width:1200px) and (max-width:1680px){
     .maskPages .fenye {
         line-height: 100px;
         margin-left: 100px;

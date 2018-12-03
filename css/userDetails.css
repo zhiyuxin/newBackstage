@@ -287,7 +287,12 @@
     color: #fff;
     cursor: pointer;
 }
-@media screen and (min-width:1200px) and (max-width:1623px){
+@media screen and (min-width:960px) and (max-width:1200px){
+    .table-cell {
+        padding: 5px 3px;
+    }
+}
+@media screen and (min-width:1200px) and (max-width:1680px){
     .table-cell{
         padding: 5px 8px;
     }

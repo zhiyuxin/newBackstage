@@ -343,7 +343,13 @@
     font-size: 18px;
     font-weight: bold;
 }
-@media screen and (min-width:1200px) and (max-width:1623px){
+@media screen and (min-width:960px) and (max-width:1200px){
+    .content>.rightList>.box>.rh_title>li {
+        width: 10%;
+    }
+}
+
+@media screen and (min-width:1200px) and (max-width:1680px){
     .content>.rightList>.box>.rh_title>li {
         width: 10%;
     }

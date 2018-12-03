@@ -266,7 +266,7 @@
     color: #fff;
     cursor: pointer;
 }
-@media screen and (min-width:1200px) and (max-width:1623px){
+@media screen and (min-width:1200px) and (max-width:1680px){
     .table {
         display: table;
         border-collapse: collapse;

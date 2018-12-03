@@ -105,7 +105,7 @@
     margin-left: 2px;
     cursor: pointer;
 }
-@media screen and (min-width:1200px) and (max-width:1623px){
+@media screen and (min-width:1200px) and (max-width:1680px){
     .content>.rightList>.box>.rh_cont>.show>.contList>ul>li {
         width: 222px;
         height: 105px;

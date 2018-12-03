@@ -223,8 +223,8 @@
 
 .table-cell {
     display: table-cell;
-    padding: 10px 60px;
-    border: 1px solid #000;
+    padding: 5px 60px;
+    border: 1px solid #fff;
     text-align: center;
 }
 .table-cell a{
@@ -240,7 +240,12 @@
 .table-footer-group {
     display: table-footer-group;
 }
-@media screen and (min-width:1200px) and (max-width:1623px){
+@media screen and (min-width:960px) and (max-width:1200px){
+.content>.rightList>.box>.rh_title>li {
+    width: 116px;
+}
+}
+@media screen and (min-width:1200px) and (max-width:1680px){
     .content>.rightList>.box>.rh_cont {
         width: 85%;
         margin: 65px 0 0 100px;

@@ -135,7 +135,7 @@
     display: table;
     border-collapse: collapse;
     /*border: 1px solid #ccc;*/
-    margin: 75px 0 0 100px;
+    /*margin: 75px 0 0 100px;*/
 }
 .table>.tabletit{
     margin-bottom: 10px;
@@ -172,9 +172,14 @@
     display: table-footer-group;
 }
 @media screen and (min-width:960px) and (max-width:1200px){
-
+    .content>.rightList>.box>.rh_title>li {
+        width: 10%;
+    }
+    .table-cell{
+        padding: 7px 32px;
+    }
 }
-@media screen and (min-width:1200px) and (max-width:1623px){
+@media screen and (min-width:1200px) and (max-width:1680px){
     .content>.rightList>.box>.rh_title>li {
         width: 10%;
     }
@@ -182,6 +187,6 @@
         padding: 7px 32px;
     }
     .table{
-        margin: 75px 0 0 40px;
+        /*margin: 75px 0 0 40px;*/
     }
 }

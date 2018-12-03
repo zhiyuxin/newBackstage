@@ -63,6 +63,7 @@
 }
 
 .content>.rightList>.box>.public {
+    /*float: inherit;*/
 }
 
 .content>.rightList>.box>.public>.chooseTime {

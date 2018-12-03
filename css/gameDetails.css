@@ -51,7 +51,7 @@
 .content>.rightList>.box>.rh_cont {
     width: 90%;
     height: 300px;
-    margin: 5% 0 0 9%;
+    margin: 65px 0 0 100px;
     overflow: hidden;
 }
 
@@ -243,7 +243,7 @@
 @media screen and (min-width:1200px) and (max-width:1623px){
     .content>.rightList>.box>.rh_cont {
         width: 85%;
-        margin: 5% 0 0 12%;
+        margin: 65px 0 0 100px;
     }
     .table-cell {
         padding: 7px 27px

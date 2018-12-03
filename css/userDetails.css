@@ -24,7 +24,7 @@
     background: #199ed8;
 }
 .content>.rightList>.box>.rh_title>li {
-    width: 11%;
+    width: 15%;
     height: 50px;
     /*background: #fff;*/
     text-align: center;
@@ -42,7 +42,7 @@
 .content>.rightList>.box>.rh_cont {
     width: 100%;
     height: auto;
-    margin-top: 60px;
+    margin-top: 20px;
 }
 
 .content>.rightList>.box>.rh_cont>li {
@@ -58,9 +58,6 @@
     border: 1px solid #ccc;
     margin: 0 10px 0 10px;
 }
-.tabletit{
-    margin-bottom: 10px;
-}
 .table-row-group {
     display: table-row-group;
 }
@@ -68,6 +65,7 @@
     display: table-row;
     background: #169bd5;
     color: #fff;
+    border: 1px solid #169bd5;
 }
 .table-row {
     display: table-row;
@@ -80,7 +78,7 @@
 .table-cell {
     display: table-cell;
     padding: 10px 19px;
-    /*border: 1px solid #000;*/
+    border: 1px solid #ccc;
     text-align: center;
     font-size: 14px;
 }
@@ -291,7 +289,7 @@
 }
 @media screen and (min-width:1200px) and (max-width:1623px){
     .table-cell{
-        padding: 5px 9px;
+        padding: 5px 8px;
     }
     .mask>.commMask>form>.changePwdList {
         width: 65%;

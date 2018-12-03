@@ -160,7 +160,7 @@
 .table-cell {
     display: table-cell;
     padding: 8px 58px;
-    /* border: 1px solid #000; */
+     border: 1px solid #ccc;
     text-align: center;
     font-size: 14px;
 }
@@ -344,6 +344,9 @@
     font-weight: bold;
 }
 @media screen and (min-width:1200px) and (max-width:1623px){
+    .content>.rightList>.box>.rh_title>li {
+        width: 10%;
+    }
     .mask>.commMask>.exchangeList>.down {
         margin-left: 160px;
     }
@@ -354,7 +357,7 @@
         margin-left: 160px;
     }
     .table-cell{
-        padding: 7px 35px;
+        padding: 5px 35px;
     }
     .table{
         margin: 75px 0 0 40px;

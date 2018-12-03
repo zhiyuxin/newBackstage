@@ -51,7 +51,7 @@
 .content>.rightList>.box>.rh_cont {
     width: 100%;
     height: auto;
-    margin-top: 60px;
+    margin-top: 20px;
 }
 
 .content>.rightList>.box>.rh_cont>li {
@@ -163,7 +163,7 @@
     display: table;
     border-collapse: collapse;
     border: 1px solid #ccc;
-    margin: 100px 0 0 150px;
+    margin: 75px 0 0 100px;
 }
 .table-row-group {
     display: table-row-group;
@@ -188,7 +188,7 @@
 .table-cell {
     display: table-cell;
     padding: 8px 58px;
-    /* border: 1px solid #000; */
+     border: 1px solid #ccc;
     text-align: center;
     font-size: 14px;
 }

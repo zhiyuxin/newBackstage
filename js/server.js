@@ -21,7 +21,7 @@ $(function () {
     //修改文字
     $("select").mouseout(function () {
         if($(".type option:selected").val() === "五星宏辉" || $(".type option:selected").val() === "百家乐二号"){
-            $(".editRoom").text("房间最大玩家数：");
+            $(".editRoom").text("最大玩家数量：");
             $(".editNum").val("修改玩家数");
         }else {
             $(".editRoom").text("房间开放数量：");

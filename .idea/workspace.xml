@@ -30,45 +30,45 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="90" />
-          <entry key="html" value="49" />
-          <entry key="js" value="49" />
+          <entry key="css" value="91" />
+          <entry key="html" value="53" />
+          <entry key="js" value="50" />
           <entry key="ts" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="90" />
-          <entry key="HTML" value="49" />
-          <entry key="JavaScript" value="49" />
+          <entry key="CSS" value="91" />
+          <entry key="HTML" value="53" />
+          <entry key="JavaScript" value="50" />
           <entry key="TypeScript" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="4238" />
-          <entry key="html" value="4966" />
-          <entry key="js" value="2107" />
+          <entry key="css" value="4260" />
+          <entry key="html" value="4970" />
+          <entry key="js" value="2109" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="4238" />
-          <entry key="HTML" value="4966" />
-          <entry key="JavaScript" value="2107" />
+          <entry key="CSS" value="4260" />
+          <entry key="HTML" value="4970" />
+          <entry key="JavaScript" value="2109" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.44893113">
+    <splitter split-orientation="horizontal" split-proportion="0.5310854">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/accQuery.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="154">
-                  <caret line="419" column="24" lean-forward="true" selection-start-line="419" selection-start-column="24" selection-end-line="419" selection-end-column="24" />
+                <state relative-caret-position="434">
+                  <caret line="441" column="36" lean-forward="true" selection-start-line="441" selection-start-column="36" selection-end-line="441" selection-end-column="36" />
                   <folding>
                     <element signature="n#li#1;n#ul#1;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
                     <element signature="n#li#2;n#ul#1;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -78,6 +78,9 @@
                     <element signature="n#li#6;n#ul#1;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
                     <element signature="n#li#7;n#ul#1;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
                     <element signature="n#li#8;n#ul#1;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="e#21624#21630#0" expanded="true" />
+                    <element signature="e#21630#21636#0" expanded="true" />
+                    <element signature="e#21852#21858#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -92,16 +95,38 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/css/Recharge.css">
-              <provider selected="true" editor-type-id="text-editor" />
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="392">
+                  <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/server.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="196">
+                  <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/js/server.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="490">
+                  <caret line="32" column="35" lean-forward="true" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
+                </state>
+              </provider>
             </entry>
           </file>
         </leaf>
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Recharge.html">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="364">
@@ -120,19 +145,10 @@
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/userQuery.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="504">
-                  <caret line="57" column="62" selection-start-line="57" selection-start-column="62" selection-end-line="57" selection-end-column="62" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/css/gameDetails.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="378">
-                  <caret line="53" column="27" selection-start-line="53" selection-start-column="27" selection-end-line="53" selection-end-column="27" />
+                <state relative-caret-position="532">
+                  <caret line="257" column="16" selection-start-line="257" selection-start-column="16" selection-end-line="257" selection-end-column="16" />
                 </state>
               </provider>
             </entry>
@@ -146,20 +162,11 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/css/onlineUser.css">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/css/server.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="504">
-                  <caret line="179" column="5" lean-forward="true" selection-start-line="177" selection-start-column="4" selection-end-line="179" selection-end-column="5" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/onlineUser.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="168">
-                  <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+                <state relative-caret-position="322">
+                  <caret line="80" column="18" selection-start-line="80" selection-start-column="18" selection-end-line="80" selection-end-column="18" />
                 </state>
               </provider>
             </entry>
@@ -185,8 +192,17 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/gamePreview.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="438">
+                <state relative-caret-position="152">
                   <caret line="109" column="21" lean-forward="true" selection-start-line="109" selection-start-column="21" selection-end-line="109" selection-end-column="21" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/gameDetails.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="518">
+                  <caret line="163" column="41" selection-start-line="163" selection-start-column="41" selection-end-line="163" selection-end-column="41" />
                 </state>
               </provider>
             </entry>
@@ -282,19 +298,15 @@
         <option value="$PROJECT_DIR$/css/public.css" />
         <option value="$PROJECT_DIR$/css/warning.css" />
         <option value="$PROJECT_DIR$/warning.html" />
-        <option value="$PROJECT_DIR$/server.html" />
         <option value="$PROJECT_DIR$/js/userDetails.js" />
-        <option value="$PROJECT_DIR$/gameDetails.html" />
         <option value="$PROJECT_DIR$/js/gameDetails.js" />
         <option value="$PROJECT_DIR$/js/Recharge.js" />
         <option value="$PROJECT_DIR$/jurisdAdmin.html" />
         <option value="$PROJECT_DIR$/js/jurisdAdmin.js" />
-        <option value="$PROJECT_DIR$/js/server.js" />
         <option value="$PROJECT_DIR$/diffModify.html" />
         <option value="$PROJECT_DIR$/js/mail.js" />
         <option value="$PROJECT_DIR$/mail.html" />
         <option value="$PROJECT_DIR$/css/notice.css" />
-        <option value="$PROJECT_DIR$/css/server.css" />
         <option value="$PROJECT_DIR$/css/jurisdAdmin.css" />
         <option value="$PROJECT_DIR$/css/diffModify.css" />
         <option value="$PROJECT_DIR$/css/mail.css" />
@@ -304,13 +316,17 @@
         <option value="$PROJECT_DIR$/userDetails.html" />
         <option value="$PROJECT_DIR$/userQuery.html" />
         <option value="$PROJECT_DIR$/gamePreview.html" />
-        <option value="$PROJECT_DIR$/css/gameDetails.css" />
         <option value="$PROJECT_DIR$/css/userDetails.css" />
         <option value="$PROJECT_DIR$/css/userQuery.css" />
         <option value="$PROJECT_DIR$/css/gamePreview.css" />
         <option value="$PROJECT_DIR$/css/accQuery.css" />
         <option value="$PROJECT_DIR$/css/Recharge.css" />
         <option value="$PROJECT_DIR$/Recharge.html" />
+        <option value="$PROJECT_DIR$/gameDetails.html" />
+        <option value="$PROJECT_DIR$/css/gameDetails.css" />
+        <option value="$PROJECT_DIR$/server.html" />
+        <option value="$PROJECT_DIR$/css/server.css" />
+        <option value="$PROJECT_DIR$/js/server.js" />
       </list>
     </option>
   </component>
@@ -396,18 +412,18 @@
       <workItem from="1543627262374" duration="27253000" />
       <workItem from="1543798710081" duration="1994000" />
       <workItem from="1543819723238" duration="2564000" />
-      <workItem from="1543822510652" duration="2661000" />
+      <workItem from="1543822510652" duration="3740000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="101692000" />
+    <option name="totallyTimeSpent" value="102771000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11275026" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.11275026" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -514,13 +530,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gameDetails.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="121" column="40" selection-start-line="121" selection-start-column="40" selection-end-line="121" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/gameDetails.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="700">
@@ -539,20 +548,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="560">
           <caret line="41" column="25" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="658">
-          <caret line="59" column="25" selection-start-line="59" selection-start-column="25" selection-end-line="59" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -598,13 +593,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/server.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/notice.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="532">
@@ -633,23 +621,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/accQuery.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="419" column="24" lean-forward="true" selection-start-line="419" selection-start-column="24" selection-end-line="419" selection-end-column="24" />
-          <folding>
-            <element signature="n#li#1;n#ul#1;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#li#2;n#ul#1;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#li#3;n#ul#1;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#li#4;n#ul#1;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#li#5;n#ul#1;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#li#6;n#ul#1;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#li#7;n#ul#1;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#li#8;n#ul#1;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/onlineUser.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -675,20 +646,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
           <caret line="57" column="62" selection-start-line="57" selection-start-column="62" selection-end-line="57" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gamePreview.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
-          <caret line="109" column="21" lean-forward="true" selection-start-line="109" selection-start-column="21" selection-end-line="109" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/gameDetails.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="53" column="27" selection-start-line="53" selection-start-column="27" selection-end-line="53" selection-end-column="27" />
         </state>
       </provider>
     </entry>
@@ -727,13 +684,79 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/Recharge.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Recharge.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
           <caret line="49" column="29" selection-start-line="49" selection-start-column="29" selection-end-line="49" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gamePreview.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="109" column="21" lean-forward="true" selection-start-line="109" selection-start-column="21" selection-end-line="109" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/Recharge.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gameDetails.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="163" column="41" selection-start-line="163" selection-start-column="41" selection-end-line="163" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/gameDetails.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="257" column="16" selection-start-line="257" selection-start-column="16" selection-end-line="257" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accQuery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="441" column="36" lean-forward="true" selection-start-line="441" selection-start-column="36" selection-end-line="441" selection-end-column="36" />
+          <folding>
+            <element signature="n#li#1;n#ul#1;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#2;n#ul#1;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#3;n#ul#1;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#4;n#ul#1;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#5;n#ul#1;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#6;n#ul#1;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#7;n#ul#1;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#8;n#ul#1;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="e#21624#21630#0" expanded="true" />
+            <element signature="e#21630#21636#0" expanded="true" />
+            <element signature="e#21852#21858#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/server.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="80" column="18" selection-start-line="80" selection-start-column="18" selection-end-line="80" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="32" column="35" lean-forward="true" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
         </state>
       </provider>
     </entry>

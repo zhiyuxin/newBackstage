@@ -171,8 +171,8 @@
     width: 145px;
     /* height: 50px; */
     position: absolute;
-    top: 134px;
-    left: 115px;
+    top: 140px;
+    left: 108px;
     cursor: pointer;
 }
 .content>.rightList>.box>.goBack>.back{
@@ -249,13 +249,14 @@
         padding: 7px 27px
     }
     .content>.rightList>.box>.room{
-        margin: 10% 0 0 10%;
+        margin: 5% 0 0 9%;
     }
     .content>.rightList>.box>.rh_cont>li>ul>li {
         margin: 0 1% 1.5% 0;
     }
     .content>.rightList>.box>.goBack {
-        top: 168px;
+        top: 110px;
+        left: 90px;
     }
     .content>.rightList>.box>.rh_title>li {
         width: 137px;

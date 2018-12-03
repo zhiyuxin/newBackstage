@@ -22,7 +22,7 @@
 }
 
 .content>.rightList>.box>.rh_title>.current {
-    background: #fff;
+    background: #199ed8;
 }
 .content>.rightList>.box>.leftDown{
     position: absolute;
@@ -46,7 +46,7 @@
     color: #000;
 }
 .content>.rightList>.box>.leftDown>ul>.ldActive{
-    background: #ccc;
+    background: #199ed8;
 }
 .content>.rightList>.box>.rh_cont {
     width: 90%;

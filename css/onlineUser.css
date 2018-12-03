@@ -13,11 +13,11 @@
     float: left;
     cursor: pointer;
     font-size: 15px;
-    border-bottom: 1px solid #ccc;
+    /*border-bottom: 1px solid #ccc;*/
 }
 
 .content>.rightList>.box>.rh_title>.current {
-    background: #fff;
+    background: #199ed8;
 }
 
 .content>.rightList>.box>.rh_cont {

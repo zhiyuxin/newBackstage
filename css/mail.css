@@ -9,7 +9,7 @@
     line-height: 50px;
     float: left;
     font-size: 15px;
-    border-bottom: 1px solid #ccc;
+    /*border-bottom: 1px solid #ccc;*/
 }
 .content>.rightList>.box>.usertitle>ul>li>a{
     display: block;
@@ -17,7 +17,7 @@
     color: #000;
 }
 .content>.rightList>.box>.usertitle>ul>.useractive {
-    background: #fff;
+    background: #199ed8;
 }
 .content>.rightList>.box>form>.formList{
     width: 100%;
@@ -46,7 +46,7 @@
 }
 .content>.rightList>.box>form>.formList>.formTitle>span{
     margin-left: 20px;
-    color: #fff;
+    color: #ccc;
     height: 30px;
     line-height: 30px;
 }
@@ -71,7 +71,7 @@
 }
 .content>.rightList>.box>form>.formList>.formCollect>span{
     margin-left: 20px;
-    color: #fff;
+    color: #ccc;
     height: 30px;
     line-height: 30px;
 }

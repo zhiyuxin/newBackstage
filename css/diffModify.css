@@ -23,7 +23,7 @@
 .content>.rightList>.box>.rh_cont {
     width: 100%;
     height: auto;
-    margin-top: 60px;
+    /*margin-top: 60px;*/
 }
 
 .content>.rightList>.box>.rh_cont>li {
@@ -39,7 +39,7 @@
     /*background: #000;*/
     line-height: 50px;
     font-size: 15px;
-    margin-bottom: 30px;
+    margin-bottom: 10px;
 }
 .content>.rightList>.box>.rh_cont>.show>.title>span{
     font-weight: bold;
